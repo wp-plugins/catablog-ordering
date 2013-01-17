@@ -1,9 +1,18 @@
 === Catablog Ordering - Add Catablog Support for Making Purchase Orders ===
+<<<<<<< HEAD
 Contributors: diego2k
 Tags: plugin, admin, product, sales, orders, purchase, store, cart, ecommerce, Spanish
 Requires at least: catablog plugin in order to work
 Tested up to: wordpress: 3
 Stable tag: trunk
+=======
+Donate link: http://usabilitydynamics.com/products/
+Tags: plugin, admin, product, sales, orders, purchase, store, cart, ecommerce, Spanish
+Requires catablog plugin in order to work
+Tested on wordpress: 3
+You can find me on facebook/diego2k
+
+>>>>>>> First Public Release
 
 == Description ==
 
@@ -11,6 +20,7 @@ I use CataBlog for make product catalog and i needed a way for let people
 to make a purchase order of product and send it by email, so here it is.
 This is a work in progress so feel free to contact me and ask me for updates.
 
+<<<<<<< HEAD
 == Installation ==
 
 1) Copy the catablogordering folder to your wordpress plugin folder.
@@ -59,3 +69,8 @@ Improved Documentation
 
 == 0.1 == 
 First Public Release
+=======
+== 0.1 == 
+First Public Release
+ 
+>>>>>>> First Public Release
